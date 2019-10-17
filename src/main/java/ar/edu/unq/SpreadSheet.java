@@ -37,7 +37,4 @@ public class SpreadSheet {
         return new NoACell();
     }
 
-    public void set(String cellAddress, Identity formula) {
-        this.cells.add(new ACell(cellAddress, formula));
-    }
 }
