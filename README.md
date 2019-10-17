@@ -32,3 +32,12 @@ el valor de ```b3``` debe ser 3 y deberá actualizarse según se actualice la ce
 
 Programación orientada a objetos + TDD
 
+#### Referencias:
+
+- Servidor de integración continua: [Travis][1]
+- Cobertura de código: [Codcov][3]
+- Herramienta de instrumentación de código [Jacoco][4]
+
+[1]: https://travis-ci.org/
+[3]: https://codecov.io/gh
+[4]: https://www.baeldung.com/jacoco
